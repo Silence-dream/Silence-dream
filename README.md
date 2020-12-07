@@ -1,6 +1,7 @@
 - # 👋 Hey there
 
   I'm Silence-dream, a front-end developer.
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
 
   - 🚀 I use daily:
       ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
