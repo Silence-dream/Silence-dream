@@ -5,6 +5,7 @@
 
   - 🚀 I use daily:
       ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+      ![C](https://img.shields.io/badge/-C-black?style=plastic&logo=C)
       ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
       ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
       ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
