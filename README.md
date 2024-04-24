@@ -36,14 +36,14 @@
 
 ![1](https://wakatime.com/share/@Silence_dream/21fb4f5c-7f46-4428-a2ea-725cad85771e.svg)
 
-  <p><span>Last 7 Days :</span> </p>
+  <!-- <p><span>Last 7 Days :</span> </p>
 
 
 <div>
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Silence_dream&layout=compact&theme=material-palenight&range=last_7_days" />
   </p>
-</div>
+</div> -->
 
 
 
