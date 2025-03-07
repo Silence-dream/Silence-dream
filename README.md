@@ -12,6 +12,7 @@
 
 
 - 🚀 I use daily:
+- ![Solidity](https://img.shields.io/badge/-Solidity-black?style=plastic&logo=solidity)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
