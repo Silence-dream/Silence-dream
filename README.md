@@ -1,6 +1,6 @@
 - # 👋 Hey there
 
-  I'm a front-end developer. <del>API 调用工程师</del>
+  I'm a Web3.0 developer. <del>API 调用工程师</del>
 
   I'm looking for a job that gives meaning to my life. <del>I am studying for the Primary School Diploma of the University of Chinese Society😎</del>
 
